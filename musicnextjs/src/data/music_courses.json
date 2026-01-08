@@ -1,0 +1,85 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Guitar fundamentals",
+            "slug": "guitar-fundamentals",
+            "description": "Learn the basics of playing the guitar, including chords, strumming patterns",
+            "price": 49.99,
+            "instructor": "John Doe",
+            "isFeatured": true,
+            "image": "/images/courses/guitar-fundamentals.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Piano for beginners",
+            "slug": "piano-for-beginners",
+            "description": "Start your journey with the piano by learning essential techniques and songs",
+            "price": 59.99,
+            "instructor": "Jane Smith",
+            "isFeatured": false,
+            "image": "/images/courses/piano-for-beginners.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Drumming basics",
+            "slug": "drumming-basics",
+            "description": "Get to know the fundamentals of drumming, including rhythms and beats",
+            "price": 39.99,
+            "instructor": "Mike Johnson",
+            "isFeatured": true,
+            "image": "/images/courses/drumming-basics.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Vocal training",
+            "slug": "vocal-training",
+            "description": "Improve your singing skills with techniques for breath control and pitch",
+            "price": 69.99,
+            "instructor": "Emily Davis",
+            "isFeatured": false,
+            "image": "/images/courses/vocal-training.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Music theory essentials",
+            "slug": "music-theory-essentials",
+            "description": "Understand the basics of music theory to enhance your musical knowledge",
+            "price": 29.99,
+            "instructor": "Chris Brown",
+            "isFeatured": true,
+            "image": "/images/courses/music-theory-essentials.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Advanced guitar techniques",
+            "slug": "advanced-guitar-techniques",
+            "description": "Take your guitar skills to the next level with advanced techniques and solos",
+            "price": 79.99,
+            "instructor": "John Doe",
+            "isFeatured": false,
+            "image": "/images/courses/advanced-guitar-techniques.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Jazz improvisation",
+            "slug": "jazz-improvisation",
+            "description": "Learn the art of jazz improvisation and develop your unique style",
+            "price": 89.99,
+            "instructor": "Sarah Wilson",
+            "isFeatured": true,
+            "image": "/images/courses/jazz-improvisation.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Songwriting workshop",
+            "slug": "songwriting-workshop",
+            "description": "Discover the secrets of songwriting and create your own original music",
+            "price": 54.99,
+            "instructor": "David Lee",
+            "isFeatured": false,
+            "image": "/images/courses/songwriting-workshop.jpg"
+        }
+
+    ]
+}
