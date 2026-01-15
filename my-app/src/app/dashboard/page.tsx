@@ -2,7 +2,8 @@ import React from 'react'
 
 function page() {
   return (
-    <div>page</div>
+    <div><h1>
+        WELCOME TO DASHBOARD</h1></div>
   )
 }
 
